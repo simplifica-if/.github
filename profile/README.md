@@ -1,5 +1,9 @@
 # Simplifica IF
 
+<p align="center">
+  <img src="assets/simplifica-if-icone.png" alt="Icone da Simplifica IF: documentos organizados com uma seta de orientacao" width="180">
+</p>
+
 Ferramentas abertas para ajudar pessoas que trabalham com rotinas do IFPR a encontrar normas, conferir documentos e usar inteligência artificial com mais segurança.
 
 A **Simplifica IF** organiza materiais públicos, scripts e orientações práticas para apoiar tarefas institucionais, acadêmicas e administrativas. A ideia é simples: juntar conhecimento que costuma ficar espalhado e transformar parte dele em bases consultáveis, checklists e ferramentas que economizam tempo.
