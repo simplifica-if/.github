@@ -25,21 +25,7 @@ Se você não é uma pessoa técnica, pode pensar nesta organização como uma c
 
 ### [base-conhecimento](https://github.com/simplifica-if/base-conhecimento)
 
-Base pública de consulta com leis, resoluções, portarias, notas técnicas e outros documentos de referência. Os textos ficam em arquivos Markdown, que são fáceis de ler no GitHub e também fáceis de uma IA consultar.
-
-O que existe hoje:
-
-- normas sobre LDB, estágio, cotas, criação dos Institutos Federais, educação profissional e tecnológica, ensino médio, cursos técnicos, assistência estudantil, calendário acadêmico, inclusão e educação especial;
-- resoluções e portarias do CONSUP/IFPR e da PROENS/IFPR usadas em análises de cursos e rotinas acadêmicas;
-- um `manifest.json`, que funciona como um índice para agentes de IA encontrarem os documentos certos;
-- scripts de manutenção para gerar e validar a base.
-
-Como usar sem programar:
-
-1. Abra o repositório.
-2. Leia a lista de "Normas publicadas".
-3. Clique no documento que tem relação com a sua dúvida.
-4. Confira sempre o campo de fonte oficial antes de usar a informação em uma decisão.
+Base de consulta com leis, resoluções, portarias, notas técnicas e outros documentos de referência. Os textos ficam em arquivos Markdown, que são fáceis de uma IA consultar.
 
 Como usar com IA:
 
@@ -130,29 +116,3 @@ Quando usar:
 - ao criar páginas ou protótipos;
 - ao revisar materiais para manter aparência consistente com a identidade visual institucional.
 
-### [.github](https://github.com/simplifica-if/.github)
-
-Repositório que controla esta página inicial da organização no GitHub.
-
-Ele não é uma ferramenta de análise. Sua função é apresentar a Simplifica IF e ajudar as pessoas a encontrarem o repositório certo.
-
-## Como usar com segurança
-
-- Use os materiais como apoio, não como decisão automática.
-- Peça para a IA citar a fonte, o trecho e o documento usado.
-- Desconfie de respostas sem referência.
-- Quando a análise envolver prazo, direito, obrigação, aprovação, reprovação ou decisão administrativa, confirme com a norma oficial e com o setor responsável.
-- Se encontrar erro, documento desatualizado ou lacuna, abra uma issue ou proponha uma correção.
-
-## Princípios
-
-- **Clareza:** materiais devem ser compreensíveis para pessoas técnicas e não técnicas.
-- **Rastreabilidade:** respostas e relatórios devem apontar fontes, critérios e evidências.
-- **Abertura:** sempre que possível, conhecimento e ferramentas devem ser públicos e reutilizáveis.
-- **Cuidado institucional:** automações ajudam o trabalho humano, mas não substituem responsabilidade técnica.
-- **Simplicidade prática:** preferimos ferramentas úteis, verificáveis e sustentáveis.
-- **Colaboração:** a iniciativa deve melhorar com uso real, revisão e contribuição de quem conhece a rotina institucional.
-
-## Situação atual
-
-Levantamento atualizado em 29 de abril de 2026, com base nos repositórios públicos da organização no GitHub.
